@@ -4,6 +4,10 @@
 ## AIM
 To develop a Django application to store and retrieve data from a Book database using Object Relational Mapping(ORM).
 
+## Entity Relationship Diagram
+![WhatsApp Image 2024-03-20 at 10 53 14_9291dd85](https://github.com/04Varsha/ORM/assets/149035374/8de6e606-4159-48ae-9ee8-597506be844e)
+
+
 ## DESIGN STEPS
 
 ### STEP 1:
